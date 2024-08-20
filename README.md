@@ -2,6 +2,9 @@
 Android App to Connect to Your ESP32 BLE Weight Scale
 <br><br>
 
+![WeightScale-BLE-Android](weighscale.png)
+<br><br>
+
 **Introduction:**
 
 In an earlier article, we built a [smart Weight Scale using ESP32 microcontroller](https://github.com/sdranju/WeightScale-ESP32-BLE), a load cell sensor and Bluetooth Low Energy (BLE) to broadcast weight data. Now, it's time to create an Android app that can connect to our DIY scale and display the weight measurements. It will allow you to easily monitor your weight progress and integrate it with other health and fitness appliances.
